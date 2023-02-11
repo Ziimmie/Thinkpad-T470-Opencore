@@ -1,6 +1,6 @@
 # Thinkpad T470 OpenCore
  
- # Please know that I do not actively maintain this config anymore. I have moved to a different laptop. Feel free to fork and make changes as you desire. 
+ ## Please know that I do not actively maintain this config anymore. I have moved to a different laptop. Feel free to fork and make changes as you desire. 
  
  My Opencore folder, for my ThinkPad T470 (i5-7300u, 8GB RAM)
 
